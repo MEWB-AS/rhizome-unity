@@ -1,0 +1,11 @@
+{
+    "name": "no.mewb.rhizome.unity",
+	"displayName": "Rhizome",
+    "version": "0.1.0",
+    "unity": "2022.3",
+    "unityRelease": "46f1",
+    "description": "Rhizome game services for Unity",
+	"dependencies": {
+		"com.unity.settings-manager": "2.0.1"
+	}
+}
