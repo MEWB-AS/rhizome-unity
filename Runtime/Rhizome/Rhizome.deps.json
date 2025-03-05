@@ -7,14 +7,14 @@
   "targets": {
     ".NETStandard,Version=v2.1": {},
     ".NETStandard,Version=v2.1/": {
-      "Rhizome.Client/1.0.0": {
+      "Rhizome/1.0.0": {
         "dependencies": {
           "Google.Protobuf": "3.27.3",
           "Grpc.Tools": "2.65.0",
           "System.Text.Json": "8.0.4"
         },
         "runtime": {
-          "Rhizome.Client.dll": {}
+          "Rhizome.dll": {}
         }
       },
       "Google.Protobuf/3.27.3": {
@@ -118,7 +118,7 @@
     }
   },
   "libraries": {
-    "Rhizome.Client/1.0.0": {
+    "Rhizome/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
